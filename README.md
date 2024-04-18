@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @piyushalankar251
-- 👀 I’m interested in internships/full-time offers 
+- 👋 Hi, I’m piyush
+- 🏢 SDE at SunLife Global Solutions
+- 👀 Looking for Java FSD roles 
 - 🌱 I’m currently learning Back-end Development in Node.js
 - 💞️ I’m looking to collaborate on open-source projects 
 - 📫 How to reach me piyushalankar251@gmail.com
